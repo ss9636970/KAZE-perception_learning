@@ -1,7 +1,7 @@
 # *KAZE with perception learning
 
 # 1.  training dataset
-此任務為圖片分類任務，資料皆為狗的照片，並可以分為50種不同的狗，下方照片為舉例圖片![n02111277_160](D:\study\ncku\soa2\deep_learning\hw1\readme\n02111277_160.JPEG)![n02111500_113](D:\study\ncku\soa2\deep_learning\hw1\readme\n02111500_113.jpg)
+此任務為圖片分類任務，資料皆為狗的照片，並可以分為50種不同的狗，下方照片為舉例圖片![n02111277_160](ss9636970\readme\n02111277_160.JPEG)![n02111500_113](ss9636970\readme\\n02111500_113.jpg)
 
 
 
