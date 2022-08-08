@@ -3,7 +3,7 @@
 # 1.  training dataset
 此任務為圖片分類任務，資料皆為狗的照片，並可以分為50種不同的狗，下方照片為舉例圖片
 
-![n02111277_160](.\readme\n02111277_160.JPEG)
+![n02111277_160](https://github.com/ss9636970/KAZE-perception_learning/blob/main/readme/n02111277_160.JPEG)
 
 資料可分為:
 
