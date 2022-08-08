@@ -5,6 +5,8 @@
 
 ![n02111277_160](https://github.com/ss9636970/KAZE-perception_learning/blob/main/readme/n02111277_160.JPEG)
 
+![n02111277_160](https://github.com/ss9636970/KAZE-perception_learning/blob/main/readme/n02111500_113.jpg)
+
 資料可分為:
 
 63325張訓練資料
@@ -20,7 +22,7 @@
 
 KAZE演算法計算圖片中像素之間的梯度值(gradient)作為圖片特徵，下圖為KAZE演算法計算特徵示意圖，
 
-![KAZE](D:\study\ncku\soa2\deep_learning\hw1\readme\KAZE.PNG)
+![KAZE](https://github.com/ss9636970/KAZE-perception_learning/blob/main/readme/KAZE.PNG)
 
 # 3. Perception
 
